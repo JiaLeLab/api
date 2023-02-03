@@ -61,3 +61,7 @@
 .liked {
   color: #ff66aa;
 }
+
+.n-liked:hover {
+  color: #ff66aa;
+}
